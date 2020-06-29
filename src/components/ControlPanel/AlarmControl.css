@@ -1,0 +1,24 @@
+.switch{
+
+    padding: 57px;
+}
+
+.boxstyle{
+
+    
+    margin: 50px;
+}
+
+.firstCard{
+
+    
+    height: 400px;
+    width: 400px;
+}
+
+.firstCard:hover{
+
+    box-shadow: 0px 0px 17px 0px;
+    height: 400px;
+    width: 400px;
+}
